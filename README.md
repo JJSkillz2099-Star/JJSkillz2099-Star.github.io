@@ -10,7 +10,7 @@ Description: The perpose of this project was to teach us how to use the CLI. Spe
 
 ### Lab-02
 Description: The perpose of this lab was to teach us how to create a new git repository in our CLI, what branches are, how to ignore files, how to commit changes to our repo, and to clone repos locally. This was a deliverable on Project#2.  
-### Link to code
+### [Link to Lab](https://jjskillz2099-star.github.io/CIT-281-Lab-02/)
 
 ### Project#2
 Description: The perpose of this project was to teach us how to create and save our changes in a git repo file. We learned how to commit our initial code, any subsequent changes to it, and how to create a .gitignore file. For the javascript portion we had to code two functions. The first one was a function called getRandomLetter() which returns a single, random, lowercase letter. The second on was a function called getRandomString(minLength, maxLength) that returns the length of a randomly generated string between 10 and 20 characters long. It also draws some functionality from the previous function. 
