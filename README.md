@@ -40,12 +40,23 @@ Description: The perpose of this project was to teach us how to create a rest AP
 Description: This project was optional and was offered as extra credit. The perpose of this project was to see if we could figure out how to complete the code to get the monster program to work properly. Since it was extra cretit and optional I choose to skip it in favor of studying for other classes so there is no code as a result. 
 
 ### Lab-06
-Description: The perpose of this lab was to teach us how to create classes. Specifically we created a program that serves as a digital library which assigns isbn numbers to new books when adding them to the library. This was originally a deliverable on Project#5 but was changed to Project#6 . 
+Description: The perpose of this lab was to teach us how to create classes. Specifically we created a program that serves as a digital library which assigns isbn numbers to new books when adding them to the library. This was originally a deliverable on Project#5 but was changed to Project#6. 
 ### [Link to Lab](https://jjskillz2099-star.github.io/CIT-281-Lab-06/)
+
+### Lab-07
+Description: The perpose of this lab was to teach us how to create our first Github repository, clone it, and push all changes to our public repo. We also learned how to use javascript to handle errors. This was also a deliverable on Project#6. 
+### [Link to Lab](https://jjskillz2099-star.github.io/CIT-281-Lab-07/)
 
 ### Project#6
 Description: The perpose of this project was to teach us how to code classes that inherit some of their functionality from a base class. The base class is called Shape and it creates an empty array of sides for all shapes as well as sets their starting perimeter to zero until test input is given. The first class to inherit from Shape is Rectangle which creates a rectangle by processing it's length and with as sides thanks to it's inheritance and calculates it's area. The other class to inherit from Shape is Triangle which does the same things as the rectangle class but for Triangles instead. 
 ### [Link to Project](https://jjskillz2099-star.github.io/CIT-281-Project-6/)
 
+### Lab-08
+Description: The perpose of this lab was to teach us how to add fastify and node-fetch require statements. It also taught use how to create error codes from scratch. This was a deliverable on Project#7.
+### [Link to Lab](https://jjskillz2099-star.github.io/CIT-281-Lab-08/)
+
+### Lab-09
+Description: The perpose of this lab was to teach us how to complete a Github tutorial however said tutorial was broken so I didn't complete it and as a result there's nothing to see here. 
+
 ### Project#7
-Description: The perpose of this project was to create this repository so we would be able to use it as a coding portfolio for job interviews. It also has the benefit of giving us more experience with creating github repos. 
+Description: The perpose of this project was to create this repository so we would be able to use it as a coding portfolio for job interviews. It also has the benefit of giving us more experience with creating github repos.
