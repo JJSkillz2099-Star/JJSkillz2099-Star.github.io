@@ -18,33 +18,34 @@ Description: The perpose of this project was to teach us how to create and save 
 
 ### Lab-03
 Description: The perpose of this lab was to teach us how to refactor JavaScript code to use more modern syntax. We also learned how to write arrow function expressions, use for..in syntax with objects, use for..of syntax with arrays, import node-modules using require, and how to examine code using the spread opperator. This was a deliverable on Project#3. 
-### Link to code
+### [Link to Lab](https://jjskillz2099-star.github.io/CIT-281-Lab-03/)
 
 ### Lab-04
 Description: The perpose of this lab was to teach us how to create an initial Fastify Node.js web server, initialize a Node.js project folder using Node Package Manager (npm), how to add Fastify to a project using npm, how to fix the MIME error, and how to add routes with parameters. This was also a deliverable on Project#3. 
-### Link to code
+### [Link to Lab](https://jjskillz2099-star.github.io/CIT-281-Lab-04/)
 
 ### Project#3
 Description: The perpose of this project was to teach us how to use the Fastify Get verb and practice using routes and query parameters. For the javascript part we had four functions to code. The first was a function called validDenomination(coin) which returns true if the coin function parameter is a valid coin value of either 1, 5, 10, 25, 50, or 100. The second was a function called valueFromCoinObject(obj) which returns the calculated value of a single coin object from the obj function parameter. The third was a function called valueFromArray(arr) which iterates through an array of coin objects and returns the final calculated value of all coin objects. The final function was called coinCount(...coinage) which calls and returns the result of the valueFromArray() function which is the value of all coin objects with the coinage array function parameter. 
+### [Link to Project](https://jjskillz2099-star.github.io/CIT-281-Project-3/)
 
 ### Lab-05
 Description: The perpose of this lab was to teach us how test routes in Postman using the GET and POST verbs. This was a deliverable on Project#4. 
-### Link to code
+### [Link to Lab](https://jjskillz2099-star.github.io/CIT-281-Lab-05/)
 
 ### Project#4
 Description: The perpose of this project was to teach us how to create a rest API server and test web server routes in Postman. For the javascript part we had to create serveral arrays that returned either question elements or answer elements and their respective numbers. For the postman all you have to do to get the to work right is type in the correct url/pathway and the results will be displayed.  
-### Link to code
+### [Link to Project](https://jjskillz2099-star.github.io/CIT-281-Project-4/)
 
 ### Project#5
 Description: This project was optional and was offered as extra credit. The perpose of this project was to see if we could figure out how to complete the code to get the monster program to work properly. Since it was extra cretit and optional I choose to skip it in favor of studying for other classes so there is no code as a result. 
 
 ### Lab-06
 Description: The perpose of this lab was to teach us how to create classes. Specifically we created a program that serves as a digital library which assigns isbn numbers to new books when adding them to the library. This was originally a deliverable on Project#5 but was changed to Project#6 . 
-### Link to code
+### [Link to Lab](https://jjskillz2099-star.github.io/CIT-281-Lab-06/)
 
 ### Project#6
 Description: The perpose of this project was to teach us how to code classes that inherit some of their functionality from a base class. The base class is called Shape and it creates an empty array of sides for all shapes as well as sets their starting perimeter to zero until test input is given. The first class to inherit from Shape is Rectangle which creates a rectangle by processing it's length and with as sides thanks to it's inheritance and calculates it's area. The other class to inherit from Shape is Triangle which does the same things as the rectangle class but for Triangles instead. 
-### Link to code
+### [Link to Project](https://jjskillz2099-star.github.io/CIT-281-Project-6/)
 
 ### Project#7
 Description: The perpose of this project was to create this repository so we would be able to use it as a coding portfolio for job interviews. It also has the benefit of giving us more experience with creating github repos. 
