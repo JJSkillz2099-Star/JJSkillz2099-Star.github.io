@@ -14,7 +14,7 @@ Description: The perpose of this lab was to teach us how to create a new git rep
 
 ### Project#2
 Description: The perpose of this project was to teach us how to create and save our changes in a git repo file. We learned how to commit our initial code, any subsequent changes to it, and how to create a .gitignore file. For the javascript portion we had to code two functions. The first one was a function called getRandomLetter() which returns a single, random, lowercase letter. The second on was a function called getRandomString(minLength, maxLength) that returns the length of a randomly generated string between 10 and 20 characters long. It also draws some functionality from the previous function. 
-### Link to code
+### [Link to Project](https://jjskillz2099-star.github.io/CIT-281-Project-2/)
 
 ### Lab-03
 Description: The perpose of this lab was to teach us how to refactor JavaScript code to use more modern syntax. We also learned how to write arrow function expressions, use for..in syntax with objects, use for..of syntax with arrays, import node-modules using require, and how to examine code using the spread opperator. This was a deliverable on Project#3. 
