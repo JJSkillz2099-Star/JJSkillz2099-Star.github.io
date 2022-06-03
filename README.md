@@ -39,8 +39,7 @@ Description: The perpose of this project was to teach us how to create a rest AP
 Description: This project was optional and was offered as extra credit. The perpose of this project was to see if we could figure out how to complete the code to get the monster program to work properly. Since it was extra cretit and optional I choose to skip it in favor of studying for other classes so there is no code as a result. 
 
 ### Lab-06
-Description: The perpose of this lab was to teach us 
-This was originally a deliverable on Project#5 but was changed to Project#6 . 
+Description: The perpose of this lab was to teach us how to create classes. Specifically we created a program that serves as a digital library which assigns isbn numbers to new books when adding them to the library. This was originally a deliverable on Project#5 but was changed to Project#6 . 
 ### Link to code
 
 ### Project#6
