@@ -6,7 +6,7 @@ Description: The perpose of this lab was to install the Visual Studio Code exten
 
 ### Project#1
 Description: The perpose of this project was to teach us how to use the CLI. Specifically to learn how to create folders, list them in a tree-like structure, use the ping command, and practice using the break keyboard sequence. We also had to code a javascript function which returned to the console a string of random length between 5 - 25 characters (range inclusive) in length, that consists of all random lowercase letters from the English alphabet. 
-### Link to code
+### [Link to Lab](https://jjskillz2099-star.github.io/CIT-281-Project-1/)
 
 ### Lab-02
 Description: The perpose of this lab was to teach us how to create a new git repository in our CLI, what branches are, how to ignore files, how to commit changes to our repo, and to clone repos locally. This was a deliverable on Project#2.  
