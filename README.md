@@ -58,5 +58,8 @@ Description: The perpose of this lab was to teach us how to add fastify and node
 ### Lab-09
 Description: The perpose of this lab was to teach us how to complete a Github tutorial however said tutorial was broken so I didn't complete it and as a result there's nothing to see here. 
 
+### Lab-10
+Description: The perpose of this lab was to catch up on any work for the class or work on this repository that you're seeing. 
+
 ### Project#7
 Description: The perpose of this project was to create this repository so we would be able to use it as a coding portfolio for job interviews. It also has the benefit of giving us more experience with creating github repos.
