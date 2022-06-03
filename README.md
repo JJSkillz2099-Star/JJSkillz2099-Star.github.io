@@ -2,7 +2,7 @@
 
 ### Lab-01
 Description: The perpose of this lab was to install the Visual Studio Code extentions Prettier, ESLint, GitHub Pull Requests and Issues, Node.js and included npm, Git, and Postman. We also learned how to open the Command Line Interphase (CLI), basic commands like how to create folders, and some keyboard shortcuts. This was a deliverble on Project#1.
-### Link to code
+### [link to lab](https://jjskillz2099-star.github.io/CIT-281-Lab-01/)
 
 ### Project#1
 Description: The perpose of this project was to teach us how to use the CLI. Specifically to learn how to create folders, list them in a tree-like structure, use the ping command, and practice using the break keyboard sequence. We also had to code a javascript function which returned to the console a string of random length between 5 - 25 characters (range inclusive) in length, that consists of all random lowercase letters from the English alphabet. 
