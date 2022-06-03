@@ -1,5 +1,9 @@
 ### Welcome to my GitHub Repository for CIT-281
 
+### Lab-01
+Description: The perpose of this lab was to install the Visual Studio Code extentions Prettier, ESLint, GitHub Pull Requests and Issues,  
+### Link to code
+
 ### Project#1
 Description: The perpose of this project was to teach us how to use the Command Line Interphase (CLI). Specifically to learn how to create folders, list them in a tree-like structure, use the ping command, and practice using the break keyboard sequence. We also had to code a javascript function which returned to the console a string of random length between 5 - 25 characters (range inclusive) in length, that consists of all random lowercase letters from the English alphabet. 
 ### Link to code
